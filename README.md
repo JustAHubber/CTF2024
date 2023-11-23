@@ -1,5 +1,6 @@
 # CTF2024
 <p>A CTF for college created by <a href="https://youtube.com/@LoganHeath">Logan H</a> and Jacob H.</p>
+<p>Ensure you watch all the videos before attempting the challenges. They give key information and are also very entertaining.</p>
 
 <div>
   <details>
